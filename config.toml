@@ -59,10 +59,10 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Universität Konstanz", url = "" }, { name = "Hertie Innovationskolleg", url = "" }, { name = "CorrelAid e.V.", url = "" } ]
+  organizations = [ { name = "Hertie Innovationskolleg", url = "" }, { name = "CorrelAid e.V.", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "IMG_8779.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "johannes.m@correlaid.org"
   address = "Bahnhofplatz 10, 78462 Konstanz"
   office_hours = ""
