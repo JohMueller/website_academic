@@ -259,7 +259,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Talks"
-  url = "#publications_selected"
+  url = "#talks"
   weight = 2
 
 [[menu.main]]
@@ -269,7 +269,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Media"
-  url = "#teaching"
+  url = "#media"
   weight = 5
 
 [[menu.main]]
