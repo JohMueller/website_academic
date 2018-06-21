@@ -1,5 +1,5 @@
 +++
-title = "Recent & Upcoming Talks"
+title = "Talks and Workshops"
 date = 2017-01-01T00:00:00
 math = false
 highlight = false
@@ -11,6 +11,6 @@ list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "talk.jpg"
 caption = ""
 +++

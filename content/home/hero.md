@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "<br><br><br><br><br><br><br><br>"
+title = "<br><br><br><br><br><br>"
 
 # Order that this section will appear in.
 weight = 5
